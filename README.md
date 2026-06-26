@@ -6,11 +6,11 @@ Kepler AI is a modern AI workflow automation platform that helps teams automate 
 
 ## ✨ Highlights
 
- AI-powered workflow automation
- Interactive analytics dashboard
- Modern, fast & responsive UI
- Clean user experience with smooth animations
- Built for scalability and performance
+ - AI-powered workflow automation
+ - Interactive analytics dashboard
+ - Modern, fast & responsive UI
+ - Clean user experience with smooth animations
+ - Built for scalability and performance
 
 ## 🛠️ Tech Stack
 
