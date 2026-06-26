@@ -23,7 +23,7 @@ export default function Footer() {
           <div>
             <h4 className="text-arctic font-semibold mb-2">Contact</h4>
             <ul className="space-y-1 text-arctic/60">
-              <li>hello@kepler-ai.com</li>
+              <li>satyammzn1001@gmail.com</li>
             </ul>
           </div>
         </div>
